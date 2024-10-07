@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @MalubaLikando
+- 👀 I’m interested in data science and developing unique features 
+- 🌱 I’m currently learning front end development and data analysis
+- 📫 How to reach me: malubalikando@icloud.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I can write with both hands
